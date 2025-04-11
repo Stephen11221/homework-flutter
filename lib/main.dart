@@ -6,7 +6,7 @@ void main(){
     MaterialApp(
       home: Scaffold(
         body: Container(
-          decoration: BoxDecoration(gradient: LinearGradient(colors: [const Color.fromARGB(255, 226, 8, 153) , Color.fromARGB(11, 45, 10, 90)]) ),
+          decoration: BoxDecoration(gradient: LinearGradient(colors: [const Color.fromARGB(255, 8, 156, 3) , Color.fromARGB(141, 13, 139, 13)]) ),
           
           child: StartScreen()),
 
